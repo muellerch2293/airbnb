@@ -8,12 +8,12 @@ It uses the data provided in https://www.kaggle.com/datasets/airbnb/seattle to a
 To answer these questions  listings.csv and calendar.csv are used
 While listings.csv contains a list of all Airbnb listings (with detailed information about every aspect of the listing) the calendar.csv files contains information about the availability and price of every listing for every day of 2016
 
-### results: 
+### Results: 
 Even though with a relatively low r-squared score of 29% on the test data we cannot reliably use the model to predict our success it still explains 29% of the variance in the data! Looking at the strongest coefficients yields a good idea of what has a positive influence on the success of a listing. 
 Furthermore it was showed that the prices depend on the location of the airbnb as well as on the time. Airbnbs are pricier in summer and on weekends!
 A strong correlation between the number of available listings and the price was not observed.
 
-### content:
+### Content:
 airbnb.ipynb: jupyter notebook
 data/listings.csv: files containing the listings of seattle in 2016
 data/calendar.csv: files containing the calendar of seattles airbnb listings
