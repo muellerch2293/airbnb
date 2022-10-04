@@ -1,3 +1,4 @@
+# Seattle Airbnb Open Data - Udacity Analysis
 The following project was created for the Udacity Data Scientist Nanodegree.
 It uses the data provided in https://www.kaggle.com/datasets/airbnb/seattle to answer the following questions:
 
