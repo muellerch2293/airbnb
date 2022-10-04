@@ -1,6 +1,6 @@
 # Seattle Airbnb Open Data - Udacity Analysis
 
-##Medium Article https://medium.com/@muellerch2293/thats-how-you-become-rich-and-famous-on-airbnb-9f33a35604e3
+### Medium Article https://medium.com/@muellerch2293/thats-how-you-become-rich-and-famous-on-airbnb-9f33a35604e3
 
 The following project was created for the Udacity Data Scientist Nanodegree.
 It uses the data provided in https://www.kaggle.com/datasets/airbnb/seattle to answer the following questions:
