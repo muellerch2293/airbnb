@@ -15,9 +15,9 @@ Furthermore it was showed that the prices depend on the location of the airbnb a
 A strong correlation between the number of available listings and the price was not observed.
 
 ### Content:
-airbnb.ipynb: jupyter notebook
-data/listings.csv: files containing the listings of seattle in 2016
-data/calendar.csv: files containing the calendar of seattles airbnb listings
+* airbnb.ipynb: jupyter notebook
+* data/listings.csv: files containing the listings of seattle in 2016
+* data/calendar.csv: files containing the calendar of seattles airbnb listings
 
 
 
