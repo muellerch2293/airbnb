@@ -1,6 +1,6 @@
 # Seattle Airbnb Open Data - Udacity Analysis
 
-### Medium Article https://medium.com/@muellerch2293/thats-how-you-become-rich-and-famous-on-airbnb-9f33a35604e3
+### Github: https://github.com/muellerch2293/airbnb
 
 The following project was created for the Udacity Data Scientist Nanodegree.
 It uses the data provided in https://www.kaggle.com/datasets/airbnb/seattle to answer the following questions:
@@ -21,8 +21,6 @@ A strong correlation between the number of available listings and the price was 
 * airbnb.ipynb: jupyter notebook
 * data/listings.csv: files containing the listings of seattle in 2016
 * data/calendar.csv: files containing the calendar of seattles airbnb listings
-
-
 
 ### used libraries:
 * numpy
