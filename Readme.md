@@ -1,5 +1,6 @@
 # Seattle Airbnb Open Data - Udacity Analysis
 
+### Medium Article: https://medium.com/@muellerch2293/thats-how-you-become-rich-and-famous-on-airbnb-9f33a35604e3
 ### Github: https://github.com/muellerch2293/airbnb
 
 The following project was created for the Udacity Data Scientist Nanodegree.
